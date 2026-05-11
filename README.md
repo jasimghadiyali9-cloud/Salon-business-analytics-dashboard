@@ -79,7 +79,7 @@ This helps identify:
 
 ## Salon Operations & Revenue Overview
 
-![Overview Dashboard](Images/Overview.png)
+![Overview Dashboard](Images/Overveiw.png)
 
 ## Customer Retention & Revenue Leakage Analysis
 
